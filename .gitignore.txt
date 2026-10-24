@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# API anahtarlari ve gizli bilgiler
+.streamlit/secrets.toml
+.env
+.env.*
+
+# IDE ve isletim sistemi dosyalari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
