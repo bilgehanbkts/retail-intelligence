@@ -1,0 +1,942 @@
+﻿kesit_tarihi,musteri_id,kayip,churn_riski,segment,R_puan,F_puan,M_puan,risk_seviyesi,onerilen_aksiyon
+2011-09-09,16257,1,0.9017071402998121,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15313,1,0.8785797462179994,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14351,1,0.8776595247751271,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14960,0,0.8685056445689783,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14117,1,0.8638915878182982,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17747,1,0.8586855308861567,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16093,1,0.8516274406020626,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17102,1,0.8408772056613174,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13120,1,0.8354423598496596,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15236,1,0.8279434536509318,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15204,1,0.8238736657211261,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17775,1,0.8219865148446881,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13218,1,0.8218410572617496,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16462,0,0.8201738911344301,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17698,1,0.8182078823289934,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13932,1,0.8178161507997315,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16573,0,0.8166987041007513,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16162,1,0.8164299994086425,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13130,1,0.8157047788393912,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17446,1,0.8125579276438887,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13682,1,0.8105793043442661,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16055,1,0.8095772783255236,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17174,1,0.8091474405468287,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14297,0,0.80709074516368,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15121,0,0.8066462570360942,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12852,1,0.8065467802366493,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18224,1,0.8062350071143327,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13751,1,0.804516055670079,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16114,1,0.8026520419930314,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12604,0,0.8023931691821214,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14438,1,0.8022525374190737,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13973,1,0.8018211569483885,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14066,1,0.8017191806663725,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13899,0,0.8000849515966353,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17881,1,0.799871515635823,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14520,0,0.7997851428313533,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14340,1,0.7993873230726986,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12814,1,0.7985646357229786,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18138,1,0.7974599777760694,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12561,1,0.7962544366829699,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13904,0,0.7952011881633423,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18010,1,0.7936443120201504,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16349,1,0.7936060142098943,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13917,0,0.7931378643991109,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15211,0,0.792756275478114,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14012,1,0.7919971773013269,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15178,1,0.7909270297088494,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17788,0,0.7902825927926931,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17250,0,0.78794822959741,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13058,0,0.7872294506963814,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13494,1,0.7867808430664149,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13867,0,0.7857755789594592,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13072,1,0.7847976640943402,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14536,1,0.7845467788203692,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13229,1,0.7836953969390819,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12834,1,0.7835678368919138,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12548,1,0.7830011733344606,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12968,1,0.7826795556644851,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16849,1,0.782072840005354,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16617,1,0.7806368538856943,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15087,1,0.779945506876998,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16144,1,0.779221975715005,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13894,0,0.7786080776802143,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17781,1,0.7784836587527075,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16509,1,0.7782502103468041,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14586,1,0.7777177501702048,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17844,1,0.7774892098250445,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16665,1,0.7762314395765207,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15328,1,0.775937257767335,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17060,1,0.7757035721625898,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15414,0,0.7753445531418376,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12350,1,0.7753021806532197,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16403,1,0.7748647683314915,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17711,0,0.7744693361597776,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14886,1,0.7737540234199756,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14059,1,0.7733730932863427,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17551,1,0.7725407276822716,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14280,1,0.7717664904512291,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16425,1,0.7717217295196219,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16517,1,0.7713339751866605,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14795,1,0.771226970228851,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13950,0,0.7711668942499924,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15226,1,0.7708651377817316,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15395,1,0.7707455253883962,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15541,1,0.7688401925756275,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13841,1,0.7685499752844698,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13391,1,0.7676162493746432,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15083,1,0.767301875388691,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15319,1,0.766807489147404,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12881,1,0.7650280072792246,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13991,0,0.7648350187971964,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12902,1,0.7647562363728676,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13651,0,0.7644172365413673,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16581,1,0.7643848737541796,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17455,1,0.7639161622779972,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15733,1,0.7635607772849798,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16886,1,0.7633434835866515,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17024,0,0.7632677735316724,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17202,1,0.7628822349103865,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15285,1,0.7628390283679539,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16687,1,0.7628308606157249,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16963,1,0.7618640378563535,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14386,1,0.7618531580265846,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14368,1,0.7614080630047284,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16738,1,0.7609415699745946,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18013,1,0.7599497187649231,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15308,1,0.7596995995664838,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17118,1,0.7588539718927899,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15090,1,0.7587570358473111,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15554,1,0.7579873100566583,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18032,1,0.7569052665747416,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13701,1,0.756235279089734,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12365,1,0.7560532872848875,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15397,1,0.7548993465363787,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13345,1,0.7541921364493024,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13968,1,0.7538477834686219,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14150,0,0.7531779944019852,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14348,1,0.7516251562814042,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17493,1,0.7514520792868747,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13369,1,0.7505384611870505,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17657,1,0.7501179278048251,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17517,1,0.7493555603061282,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15668,1,0.7489729418602681,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14760,1,0.7486333767746751,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15753,1,0.748498862137047,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14448,0,0.7483894979402298,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16073,1,0.7478452672883152,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13912,1,0.7477455407453294,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18269,1,0.7474332912564929,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16973,1,0.7473614728152925,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17877,1,0.7464377851265391,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15840,0,0.7463211926457219,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18076,1,0.7461340954951049,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18107,1,0.7459608451198434,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13575,0,0.7457752426773621,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13992,0,0.7444351773859114,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12564,1,0.7442890795928062,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16659,1,0.7441914363856483,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12818,1,0.7441597451018631,Diger,2,1,3,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12686,1,0.744136493767472,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14444,1,0.7438667475253107,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14806,0,0.7436056673118443,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15528,1,0.7435628093897612,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14476,1,0.7434250980659107,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16030,1,0.7433113715141616,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17762,1,0.7431678007057718,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15136,0,0.7430457701725834,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16084,1,0.7421522600683781,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17574,1,0.7416586261539058,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18114,1,0.7414012593905213,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15014,0,0.7412306741483105,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18004,1,0.7408954830484524,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13578,1,0.7407416179547686,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15843,1,0.7406314994146732,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18040,0,0.740304432109903,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16976,1,0.7401658752294885,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16542,0,0.7401248146011161,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12614,1,0.7400795607746592,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12944,0,0.7399134676340152,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15775,1,0.7397897561561507,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18256,1,0.7392748761897502,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15919,0,0.7389700386787226,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16865,1,0.7387784561054803,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14768,0,0.7386127509489887,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15442,1,0.7377577155471449,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15119,1,0.7376454987712283,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17535,1,0.7375871604668055,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15234,1,0.7375131625802668,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17431,1,0.7371549850508978,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13396,0,0.7366484867317692,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16371,1,0.7364859568066368,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17128,1,0.7364274680306496,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13144,1,0.736409057647355,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16852,0,0.7363858948820345,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12879,0,0.7358600880202221,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17443,1,0.735286976063319,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15820,1,0.734920158074326,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13068,0,0.7348808961046371,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18119,1,0.7348197727585384,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17733,0,0.7346501544312903,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17906,1,0.7345225386455063,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12535,1,0.7337524239199368,Yeni / Potansiyel,5,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17701,1,0.7337438365057242,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13580,1,0.7329075808771546,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14668,1,0.7320289534053489,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14393,1,0.7309000817398145,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14495,0,0.7307000056157663,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17741,1,0.7299021306981116,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16610,1,0.729490044136529,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13903,1,0.7294466435542654,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16598,1,0.7293275882490213,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12574,1,0.7291896400006046,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14473,0,0.7291325145648142,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13746,1,0.7288318986025324,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16319,1,0.7287217606465397,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14747,1,0.7284636363618665,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16237,1,0.7282347375708548,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16850,1,0.7281410236591799,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14889,1,0.7275537669814953,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15131,1,0.7273853671992923,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15118,1,0.727383410155143,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14972,1,0.726845365228832,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14046,1,0.726540370060842,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13403,0,0.7263649785336235,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18176,1,0.7263404280311191,Diger,2,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15940,1,0.7257809553132095,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13716,1,0.7252212156632336,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17263,1,0.7250701000730126,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13185,1,0.7250257703138436,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15583,1,0.7248298299373345,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17390,1,0.7240112762900676,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17569,1,0.7237047689855125,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17820,1,0.7234306138917458,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12467,1,0.7223316523097858,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15052,1,0.7216950837540368,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16667,0,0.7215957559436232,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12509,1,0.7215479863346391,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15647,1,0.7214456644677874,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16312,1,0.7211147152175528,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17370,0,0.7203849594397508,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17956,1,0.720128789507989,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16247,1,0.7200246867101592,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13312,1,0.7197802840790992,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14090,1,0.7197379973593557,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15283,1,0.7196328448054052,Risk Altinda,1,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,13257,1,0.7195216854334157,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17260,1,0.7187292487110477,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14371,1,0.7186184758680121,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12914,1,0.7177524024596483,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18068,1,0.7172384508307704,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12513,1,0.7168437605510799,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12401,1,0.7168436109823771,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16599,1,0.716506604697384,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15560,1,0.716344287762255,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12929,1,0.7153461426981663,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18054,1,0.7152165575606543,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15388,1,0.7151625500478008,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15705,1,0.7150828601008095,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17036,1,0.7147951342895809,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16754,1,0.7146201657489015,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12565,1,0.7143149925253763,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14383,0,0.7139841265987257,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17273,1,0.7136142063343169,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16752,1,0.7135014114789775,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17316,1,0.7134983322859897,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17022,0,0.713416340795946,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15316,1,0.7128334637031272,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16866,1,0.7124216951668376,Sadik Musteriler,4,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,12515,1,0.7117885354646303,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16662,1,0.7112748951658381,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17117,1,0.711136599238118,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17859,1,0.7110120470769806,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14931,0,0.7106289023200598,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14945,1,0.7103912265291029,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14571,1,0.7100159268459868,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13195,1,0.7099000104548554,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16238,1,0.7097900159284659,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18195,1,0.7097775818228709,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14041,1,0.7097248642032034,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13171,0,0.7096863920541177,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17946,1,0.7095396738315349,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18027,1,0.7095010357562329,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16152,1,0.7093857358755067,Diger,2,1,4,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13284,1,0.7090736573942834,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13702,1,0.7089492931919562,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16339,1,0.7089062778342314,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15537,1,0.7083906472088856,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15986,0,0.7079339793568715,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12858,1,0.7079217292529845,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14705,1,0.7076229586838596,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15063,1,0.7072212075098525,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16097,1,0.7068116569212022,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14782,1,0.7067961709455781,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13547,1,0.7067919885887235,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15509,1,0.7064677177671355,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15773,0,0.7063632070787971,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14259,1,0.7060773254867516,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16808,1,0.7058477370984149,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12622,1,0.7057900496552055,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18250,1,0.7051862252835283,Diger,2,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13928,0,0.7050625370325979,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17170,1,0.7050549887864642,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12489,1,0.7050087797084521,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12661,1,0.7049004314606884,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15515,1,0.7048223502970744,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17674,0,0.7047313883910126,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13666,0,0.7045766565262664,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,17879,1,0.7045479402496789,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13307,1,0.7044474738956698,Sadik Musteriler,4,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,12620,0,0.7031061800030048,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15206,0,0.7031034098374925,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16342,0,0.7030172001182058,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,12738,1,0.7027063379830534,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16113,1,0.7023229605307784,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13496,0,0.7022269394055162,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14610,1,0.7021708492938853,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12441,1,0.7021258811220358,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15045,1,0.7017032274241843,Yeni / Potansiyel,4,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14728,1,0.7012167670891039,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16640,1,0.7012141923776832,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16724,1,0.7012050064160615,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13302,1,0.7010315529588671,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13818,1,0.7006984252061984,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14542,1,0.7006790215244614,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17751,1,0.7006707267139821,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17283,1,0.700322824968877,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14718,1,0.7000929472650641,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17149,1,0.7000623309398236,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14453,1,0.6995553379220619,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14779,1,0.6990970996322352,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,16405,1,0.6982012920392993,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15935,1,0.6981999341696676,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14029,0,0.6981965489909556,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13606,0,0.6981179176093839,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18122,0,0.6981091202645551,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17900,1,0.6979597867056448,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15961,1,0.6978094003830136,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17912,1,0.6977487890118469,Risk Altinda,2,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14811,1,0.6968841660391943,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17462,0,0.6968519641199209,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12462,0,0.696619649484975,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13241,1,0.6959813721926241,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12387,1,0.6959599935397991,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17816,0,0.6958213856825979,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,16559,1,0.6957824525271701,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14975,0,0.69569707056046,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13817,0,0.695617537553092,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17280,1,0.6954668097977091,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13177,0,0.6954490113876082,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14373,1,0.6954438926821767,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13244,1,0.6954253548067838,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13918,0,0.6953759934052474,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16821,1,0.695258261124131,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13216,1,0.6951432231542666,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13385,1,0.6950950232783402,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17752,1,0.6949861873078116,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14579,1,0.6947218923230122,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15685,1,0.6940983860666532,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12768,1,0.6938636430398286,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17510,0,0.6936716563736282,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14632,1,0.6936344469378436,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13618,1,0.6934839321593416,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16778,0,0.6931652319354019,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12927,1,0.6931541705823102,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17972,1,0.6930689381911118,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15545,0,0.6929192382469722,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17803,1,0.6927280547622522,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12930,0,0.6926874960744115,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15923,1,0.6925045862568924,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18081,0,0.6923883352166176,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16490,1,0.6922436072066261,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14278,1,0.6922436072066261,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15256,1,0.6920460172381085,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14617,1,0.6920007393093853,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15655,1,0.691754632194066,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15871,1,0.6916402964179007,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16297,1,0.6913084435060796,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15902,1,0.6910252318405012,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15294,1,0.69102134276379,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17166,0,0.690790744957601,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15899,1,0.6907548765626924,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12551,1,0.6905741241956739,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14644,0,0.6904931379185999,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13132,1,0.6904585523337181,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14697,1,0.6900369100298361,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17403,0,0.6899034753005958,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17826,1,0.6898827792988854,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16346,1,0.6893998762449316,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18233,1,0.6893895796496784,Diger,2,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12364,0,0.6892509060201921,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14843,1,0.689117561904922,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12465,0,0.688379506021613,Yeni / Potansiyel,4,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18185,1,0.6882263481229365,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18222,1,0.6881497939951963,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12964,1,0.6878447482731221,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16331,1,0.6878434281184714,Risk Altinda,1,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,14155,1,0.6877399323483712,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18255,0,0.6874117398412557,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16876,1,0.6869715920693481,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13420,1,0.6869080559468792,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16624,0,0.6867557149864771,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18200,1,0.6864698414562418,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15897,1,0.6863175078403337,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13404,0,0.6862372032703483,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14995,0,0.6861724713786695,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16535,0,0.6861200027717936,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18213,1,0.6860768463540567,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16095,1,0.6860640468580941,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15846,1,0.6859181683603583,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17944,1,0.6855790896459761,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17983,1,0.6854280630609003,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12961,1,0.6854022332299521,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17767,0,0.6851421018006095,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13147,0,0.6849661834217141,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16142,1,0.6848412514870195,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17855,1,0.6845714294579218,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15408,1,0.6845690913480337,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15458,0,0.6844469689906244,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14023,0,0.6842560498543827,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13967,1,0.6841299225328216,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12887,1,0.6837552062624981,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15688,1,0.683532123659308,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18211,0,0.6832360524965968,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13525,0,0.6825790560819044,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15729,1,0.6823586397839024,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16483,1,0.6822166727212013,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13556,1,0.682100780514179,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14036,1,0.6820626611510412,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15663,1,0.681870677664798,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13687,1,0.6810523259452811,Kaybedilmek Uzere,1,1,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15761,1,0.6807783766093815,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18147,0,0.6797823798741192,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16691,1,0.6796872830322347,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15966,1,0.6794122450243866,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16760,1,0.6792975495564267,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15510,1,0.6791903970927712,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15459,1,0.6789112280596167,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14772,1,0.6789005610214879,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17376,0,0.6785943453021984,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17960,1,0.6781279283361513,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16967,1,0.6780619135959992,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14270,1,0.6780303235419836,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16433,0,0.6777146498544907,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14119,1,0.6774895182971967,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13423,1,0.6774894862503059,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15801,0,0.6772978388608754,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13570,1,0.677246952558122,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12699,1,0.676918056144534,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17830,0,0.6764252883786651,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15020,1,0.6761439059298915,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17970,1,0.6759808357377045,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13519,0,0.6757606475937551,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16602,0,0.6753586481896744,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14287,0,0.67535235534723,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17234,1,0.6753183478773949,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16217,1,0.6750863124530128,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17331,1,0.6749504469788394,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18120,1,0.6748407820247765,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16674,0,0.6748070019630786,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12707,1,0.674770836052234,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16761,1,0.674684842559163,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16540,1,0.674606986629281,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14707,1,0.6742651329505632,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16557,0,0.6741169495956234,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17687,1,0.674059155799377,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17903,1,0.6736173506125211,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12394,0,0.6735710147813151,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17989,1,0.6735068002562595,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16284,0,0.673368998243403,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17254,0,0.6732671923924614,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15948,0,0.6730923855377798,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18113,1,0.6728591425337404,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16897,1,0.6727933797278368,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12904,0,0.6723304240259326,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14147,0,0.6722561458531913,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,12400,1,0.6718683014950496,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18083,1,0.6715124307377235,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17219,0,0.6714623556719438,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16965,1,0.671248022112049,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17486,1,0.6712128653974133,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15130,1,0.6711498536016736,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13721,0,0.6706346693268608,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14406,1,0.6704377776407527,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16785,1,0.6703414977948771,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14591,0,0.670264061461264,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17763,1,0.669929812532232,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,13678,1,0.6694811631715987,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17840,1,0.6691789693586263,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13424,1,0.669039223348537,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18095,1,0.6685668773301237,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13972,0,0.6681949925546965,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13660,1,0.6681850731285048,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14635,1,0.6679806119078774,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14765,0,0.6678161317180309,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17771,0,0.6673618086132285,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,14229,0,0.667274151533029,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,15049,1,0.6671901018361207,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15277,0,0.666961395905854,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13949,0,0.6666791410264935,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18072,1,0.6663077867056911,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17121,1,0.6662127354993623,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15225,1,0.6660860982639915,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14418,0,0.6659386261167267,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14094,1,0.665835737606348,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14636,0,0.6652762993166546,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13273,1,0.6652581890158876,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18086,1,0.6652076303335823,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14992,1,0.6651563532056699,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17872,1,0.6651035971471202,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12755,1,0.664449365367479,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,17309,1,0.6642891465602364,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15859,1,0.6642057653926083,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14622,1,0.6639969298701683,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13389,0,0.6637976394545925,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17948,1,0.663683034141149,Yeni / Potansiyel,4,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17397,0,0.6636199261581328,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16828,1,0.6634246279276296,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13003,1,0.6632931585252397,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,13592,0,0.6632871717736682,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15145,0,0.6631460306183914,Diger,3,2,3,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14660,0,0.6628649995963052,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18133,1,0.6626306236182726,Diger,3,2,3,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16860,1,0.6625011821467572,Risk Altinda,1,3,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,15415,1,0.662047423265001,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16582,1,0.6617792416865069,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17868,1,0.6616899062645587,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14633,1,0.6615730312105511,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13718,1,0.6615290061122602,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15703,1,0.6614475186701982,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18063,1,0.661428017203938,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13747,1,0.6612027762230661,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13379,0,0.6611356392288075,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15822,0,0.6609915548730828,Risk Altinda,2,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,18002,1,0.6609423004734889,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,12506,1,0.6607083847393603,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18259,0,0.6607052479041319,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,15922,1,0.6605640716587174,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13358,1,0.6605204819054649,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15440,0,0.6600154256738128,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12554,1,0.6595160894611499,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14143,1,0.6594755830477219,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16690,0,0.6594088097343088,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15155,1,0.6593177559613602,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17371,0,0.6592031044287181,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13763,0,0.6591240106949688,Kaybedilmek Uzere,1,2,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13808,0,0.6590722123656662,Yeni / Potansiyel,5,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13189,0,0.658486534732239,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16587,1,0.6582758472403506,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13227,1,0.6581605193442525,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14445,1,0.6580514312784339,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17026,1,0.6580344426261984,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15161,1,0.6580323884537737,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15690,0,0.6579403978636591,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14742,1,0.6578849077011902,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17717,1,0.6573931580959279,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15776,1,0.6573069371272666,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14008,1,0.657287506118717,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15047,1,0.6570900483443441,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14848,1,0.6570204850533549,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17339,1,0.6568654498044348,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,18284,1,0.6565806880010868,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14627,1,0.6565715415497725,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12447,1,0.6565690854062656,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17249,1,0.6560025329882407,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15138,1,0.6559912148229519,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15895,1,0.6557265833126534,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15616,1,0.6551785382617271,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16630,1,0.6550890140672458,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17887,1,0.6550860610203815,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16233,0,0.6549678337253507,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,17480,0,0.6546284528059197,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18089,1,0.6540962725369479,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18110,0,0.6540786493872212,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13529,0,0.6540604532946754,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14263,1,0.6536371719779028,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17621,0,0.6534867452847144,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13133,1,0.653428166687422,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,17038,0,0.6534114194942526,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16194,1,0.6528363202413846,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14503,0,0.6528020839241865,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14882,0,0.6526411354315834,Risk Altinda,1,5,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,12563,1,0.6526186681801249,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17938,1,0.6524004313611279,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13187,1,0.6522930587961359,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17898,0,0.6522802667301524,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,13343,1,0.6522294136766584,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16874,1,0.6521061352382017,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13060,1,0.6517193542174334,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15931,1,0.651663241519802,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18146,1,0.6516620174123676,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13990,1,0.6515696065855819,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14457,1,0.6513657639915127,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16910,0,0.6511531576368754,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12526,0,0.6511406571191936,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13083,0,0.65064354428546,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17740,1,0.6503762333836761,Risk Altinda,1,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13840,1,0.6501814268547098,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14272,0,0.6501110878305272,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15638,1,0.6500759518480994,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,15457,1,0.6499225563920593,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15337,1,0.6497501890053902,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18261,0,0.6497157023670161,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16783,1,0.6496062962701898,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15781,0,0.6494845143003019,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15825,1,0.6492515202186011,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17257,1,0.6492269128977614,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17435,1,0.6491958038025892,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17812,0,0.6491059187338263,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12794,0,0.6488273591345043,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14165,1,0.6487392979116349,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12427,0,0.6485939465384959,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14517,0,0.6485183161205886,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16368,0,0.6482893248689219,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13359,0,0.6478057389376042,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12497,0,0.647746681499369,Kaybedilmek Uzere,1,2,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12537,1,0.6476494196489025,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12545,0,0.6475063136391482,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16740,1,0.6474076047524129,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15909,1,0.6473416779966196,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14294,1,0.6471978612000879,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17458,0,0.6471642675832159,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14967,0,0.6469609901102866,Risk Altinda,1,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,14819,0,0.6465190439980785,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16536,1,0.6461566520855238,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14846,1,0.6460346785938552,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16116,1,0.6459948120932918,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16495,0,0.645936721823099,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15197,0,0.6457333873548518,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,12863,0,0.6457160026345412,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13674,1,0.6454738925379168,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17327,1,0.6453106914001565,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13493,1,0.645242123663131,Diger,2,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12781,0,0.6449646560473171,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16427,1,0.6448091309981764,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16827,1,0.6447993122812824,Risk Altinda,1,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17489,0,0.6447882228407654,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17308,1,0.6446623615072437,Kaybedilmek Uzere,1,2,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16041,0,0.644616355755214,Yeni / Potansiyel,4,2,4,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16001,1,0.644202746600783,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13270,1,0.64385839342183,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12900,1,0.6437621760637703,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16804,0,0.6435318590660737,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18278,0,0.6435192075224847,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13657,0,0.6434336089783428,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12346,1,0.6432457590330235,Diger,2,2,5,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15336,1,0.6428198351189333,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15315,0,0.6427732290126762,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13245,0,0.6426379636327217,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17893,1,0.6425973933558643,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13210,1,0.642541542955087,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14252,1,0.6424971345884205,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14428,0,0.6421775808141095,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17772,0,0.6421023430911528,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17367,1,0.6420546914557379,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14126,0,0.6419563183962643,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17821,1,0.6417419324507453,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14436,1,0.6417391392384673,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15243,0,0.6416872902360865,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15481,1,0.6416863915291543,Kaybedilmek Uzere,1,1,4,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13966,1,0.6415450838422817,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12973,1,0.6414951999149301,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12899,1,0.6411749490683849,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17111,0,0.6411734594738152,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13470,1,0.6407680115732057,Yeni / Potansiyel,5,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13043,1,0.6405326332346845,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14865,0,0.6403519041690092,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,12922,1,0.640344814464013,Yeni / Potansiyel,4,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18266,1,0.6401468656686602,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14964,1,0.6401043210211204,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17981,1,0.6399094639012425,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16063,1,0.639768263141198,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17307,1,0.6397323379664237,Risk Altinda,1,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,15578,1,0.6396729336645167,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15341,0,0.6396448898875646,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15585,1,0.6395859229262583,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16321,0,0.6394933746600625,Risk Altinda,2,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14067,0,0.6392117989209332,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13708,1,0.6391774370085751,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17433,0,0.639092874817057,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17089,1,0.6387848807909338,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17394,1,0.6384165546625756,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12736,1,0.6383760113014858,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14412,0,0.63823129807065,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16888,1,0.6380195975206019,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14721,1,0.6380010097470917,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15292,1,0.6378856713698633,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14440,0,0.6378662547661261,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,15139,1,0.6378626416314602,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16962,1,0.6374928082496768,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14281,1,0.6374843070909243,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18235,0,0.6373050071834737,Yeni / Potansiyel,4,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13933,1,0.6370890270697377,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12764,1,0.6364029880132034,Diger,2,1,4,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15540,0,0.6362737747672036,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13730,1,0.6361813551297772,Yeni / Potansiyel,4,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16857,1,0.6361457937421862,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15007,1,0.6361020759493203,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15485,0,0.6360310093353295,Risk Altinda,2,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,13826,1,0.6360267746803311,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15629,1,0.6360058052362466,Risk Altinda,1,3,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13789,1,0.6358113458916218,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13843,1,0.6357082074831356,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18194,0,0.6357043205972542,Risk Altinda,1,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12732,1,0.6356308107490967,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15412,1,0.6355458464533998,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16457,1,0.6353766367808134,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15831,0,0.6352816381873325,Yeni / Potansiyel,4,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13807,1,0.6352038553225187,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14888,1,0.6350482264148275,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18282,0,0.6349243281222053,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18087,1,0.6346352831255538,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12590,1,0.6345450081281558,Diger,3,1,5,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14731,0,0.6338538159608822,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14203,1,0.6337894705656507,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14316,1,0.6336291654703525,Risk Altinda,1,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,13550,1,0.6336227022448436,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17291,1,0.6335938389049337,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14149,1,0.6328268798117613,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17697,1,0.6328260499777568,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16596,0,0.6328068371835198,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,14185,1,0.6327840963862967,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14458,1,0.6326455864483942,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18066,0,0.632466506327098,Kaybedilmek Uzere,1,2,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17055,1,0.6322910517292598,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15490,1,0.6321498543175761,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14689,1,0.6321136617407866,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16022,1,0.6317845337100869,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15803,0,0.6314141905113371,Risk Altinda,1,3,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13672,1,0.6314120731704798,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12913,0,0.631292238414102,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,15962,1,0.630989574101442,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16414,0,0.6309879521124845,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,16820,1,0.6309663377875243,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12357,0,0.6309527494357107,Kaybedilmek Uzere,1,1,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14608,0,0.6309327358882687,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13607,0,0.6308028577025361,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15030,0,0.63047342170547,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13584,1,0.6303039711101603,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15857,0,0.6302802692744934,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12521,1,0.6302020839049064,Yeni / Potansiyel,4,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14162,1,0.6300580991789718,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17540,0,0.629811426930127,Risk Altinda,2,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,14208,1,0.6297176426092786,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16721,1,0.6295966907465022,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13080,1,0.6292983381628104,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,17035,1,0.629037879135593,Sadik Musteriler,3,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15914,1,0.6289816687407263,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16446,1,0.6289245000948015,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17200,1,0.6289024541091954,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15686,1,0.6288154748035484,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13535,1,0.6288154748035484,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13874,1,0.6282978501291165,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,14173,0,0.6281642426663683,Sadik Musteriler,3,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,17467,1,0.6280177995498195,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14216,0,0.6278533108313193,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14288,1,0.6277864781503912,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16913,1,0.6275816566790665,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,18129,1,0.6273824806455893,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17640,0,0.627357733813832,Risk Altinda,1,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,17208,1,0.6272211126494759,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13251,1,0.6269211823902161,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16989,0,0.6268648338535077,Yeni / Potansiyel,5,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16069,1,0.6267950227858239,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14620,1,0.6266249701685386,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16061,1,0.6265146541305727,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16259,1,0.6264641700081076,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15960,1,0.6263626906836177,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12363,1,0.6262844948121945,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13079,0,0.6261291399918393,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16338,1,0.6260497817103288,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14744,0,0.6260488343421049,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,17598,1,0.625848764993544,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15806,0,0.6258309933360525,Yeni / Potansiyel,4,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17654,1,0.6258196386817668,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13621,1,0.6257665855475518,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15869,1,0.6257127691085729,Risk Altinda,2,3,1,Yuksek,Geri kazanım kampanyası
+2011-09-09,17573,0,0.6255138110329181,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13791,1,0.6254863752719302,Yeni / Potansiyel,4,2,4,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12454,0,0.6250205471231637,Kaybedilmek Uzere,1,2,5,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17883,0,0.6248618009001631,Sadik Musteriler,3,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,14777,1,0.6247605942843198,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12385,1,0.6241357716802831,Diger,2,1,4,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14429,1,0.6241331496565843,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13737,1,0.6241070895055528,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17018,0,0.6237783802416158,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,12511,1,0.6236456951686129,Kaybedilmek Uzere,1,1,4,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12803,1,0.6232681280288868,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12889,1,0.6232579840845373,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,16463,0,0.6228981838790429,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15488,1,0.6228190442475171,Sadik Musteriler,5,4,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,16603,0,0.6227812016373742,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15386,1,0.6225899880569855,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12425,0,0.6217288571487942,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16343,0,0.6212806767042337,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12475,0,0.6211478752698207,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13624,1,0.6206278920381254,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15881,1,0.620582957559935,Risk Altinda,2,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13215,1,0.6204730869470692,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15714,0,0.620447059789495,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14526,1,0.620413133471108,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15517,1,0.620182935225959,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16563,0,0.6201369655410514,Risk Altinda,1,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,13675,1,0.6200991658627679,Yeni / Potansiyel,4,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13174,0,0.6199213592925905,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12655,1,0.619847625145238,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14197,1,0.6196869380522962,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16309,1,0.6192777446880386,Yeni / Potansiyel,5,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,18281,1,0.6192263835473245,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13099,1,0.6189927088360296,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17235,0,0.6186707698957841,Risk Altinda,2,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,17430,0,0.6186564355475184,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12651,1,0.6185802144690747,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14603,1,0.6184367808529394,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16302,1,0.6180698994843599,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17275,1,0.6179020602514576,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15635,1,0.6178528877083879,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15497,0,0.6178287614981451,Risk Altinda,2,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,16066,0,0.6178244046966017,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16519,0,0.617809705815876,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15512,1,0.6177941010872976,Sadik Musteriler,4,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,13958,1,0.6176533666551542,Risk Altinda,2,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,15170,1,0.6176045442046295,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15307,1,0.6175820584462507,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15958,0,0.6175322691091768,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17786,0,0.6174243321230619,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13887,1,0.6173177670786576,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13237,1,0.6172920603077198,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13326,1,0.6172245759374817,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15778,1,0.6171731599090421,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15507,1,0.617012979696349,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17580,1,0.6167641457674946,Risk Altinda,2,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12728,0,0.6164934073034166,Risk Altinda,2,3,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,17691,1,0.616280844278453,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14658,0,0.6159557082391811,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17407,1,0.6158997616806845,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16087,1,0.6158377751211325,Risk Altinda,1,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,16445,0,0.615408617803925,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15745,0,0.6153409788508154,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14937,0,0.6152160338639507,Yeni / Potansiyel,4,1,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12807,1,0.6152059068203536,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15116,0,0.6152042988427442,Yeni / Potansiyel,4,2,3,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16698,1,0.6151561255759583,Diger,3,2,4,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13088,1,0.6150677351088149,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15333,1,0.6149747954515832,Diger,3,1,3,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18243,1,0.6148297013710399,Kaybedilmek Uzere,1,2,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13573,0,0.6146906726678227,Risk Altinda,2,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14862,0,0.6146853056768999,Yeni / Potansiyel,4,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13615,1,0.6146049324660948,Risk Altinda,2,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12608,1,0.6145336554732876,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13205,1,0.614336692744027,Kaybedilmek Uzere,1,1,4,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14727,1,0.6142688802037484,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17140,1,0.614203541396882,Diger,3,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14176,1,0.6141899951750568,Risk Altinda,2,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,16119,0,0.6137752441228796,Risk Altinda,1,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,17084,0,0.613747102713446,Kaybedilmek Uzere,1,1,4,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15945,1,0.6134040266547054,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13819,1,0.6133893657492391,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,14196,1,0.6133456405984988,Yeni / Potansiyel,5,1,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13303,1,0.6133207153107404,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16250,1,0.6131620518423052,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,16498,1,0.6130380781965024,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16641,1,0.6127771803837891,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12486,1,0.6126106432075493,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17548,1,0.6125509392665235,Sadik Musteriler,3,3,3,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,17008,1,0.612234915905457,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15165,1,0.6121171182491278,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16957,1,0.6119782217443357,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14254,1,0.6118821249374833,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12501,1,0.6112324650532033,Diger,2,1,4,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14991,1,0.6110298296699758,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14880,0,0.6109432075947965,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15726,1,0.6106858344936245,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15917,1,0.6106714615175409,Sadik Musteriler,3,4,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,14405,1,0.6104958714817793,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14111,0,0.6104761776810004,Sadik Musteriler,5,3,1,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15468,0,0.6104381197941359,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15107,1,0.6103814957541498,Risk Altinda,2,5,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,13202,1,0.6103715743023763,Risk Altinda,1,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,16730,0,0.610243818101106,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18159,1,0.6102118852019703,Diger,2,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14929,0,0.609967338932926,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16270,1,0.609869457455169,Diger,2,1,3,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13306,1,0.6098560664223573,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17183,0,0.6098400684272346,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14242,1,0.6097146365038424,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15158,0,0.6096775070618632,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16378,1,0.6096411456725259,Sadik Musteriler,3,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,14310,1,0.609568968778546,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14523,1,0.609543797322184,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13981,1,0.6094365780518334,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17355,1,0.6091783853975757,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17743,1,0.6090834577643629,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15772,1,0.6090645971279361,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17939,1,0.6089666480125264,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,16877,0,0.6087686715166507,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17670,1,0.6087667523847038,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15221,1,0.6087248791260178,Risk Altinda,2,3,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,13254,1,0.6084074415996662,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13411,1,0.6083919681582105,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14413,1,0.6083810323011122,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14568,1,0.6083141640389718,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14594,0,0.6082835974334884,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15659,0,0.6081340067005745,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16623,1,0.6081133468341221,Sadik Musteriler,3,3,3,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,15100,1,0.6078129766564582,Risk Altinda,2,4,4,Yuksek,Geri kazanım kampanyası
+2011-09-09,16579,1,0.6076242367341631,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16988,0,0.6075800208321985,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15890,1,0.6075619497853694,Risk Altinda,1,4,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,12956,1,0.6074554605167684,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15233,1,0.6073217921178378,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16868,1,0.607286342833397,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,16420,1,0.607162815786875,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,12547,1,0.6071126265639346,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12946,1,0.6068419977489267,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17021,1,0.6067640331565124,Risk Altinda,1,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,14392,1,0.606691633888448,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14712,0,0.606540826696695,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,15691,1,0.606525611409433,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14987,0,0.6064874924892303,Risk Altinda,2,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,18156,0,0.6063671211012781,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,17607,1,0.6063515423318052,Diger,2,1,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,18251,0,0.6061007849154412,Risk Altinda,1,4,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,14370,1,0.6058964512084605,Risk Altinda,1,4,3,Yuksek,Geri kazanım kampanyası
+2011-09-09,14559,1,0.6056808711253149,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17181,0,0.6055600882598837,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13489,1,0.6055365612240281,Sadik Musteriler,5,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,12389,1,0.6054718542047931,Kaybedilmek Uzere,1,2,4,Yuksek,Özel geri kazanım teklifi
+2011-09-09,15523,0,0.6051596822010868,Risk Altinda,1,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,14192,1,0.6049887968935124,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14363,1,0.6049140429345686,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17804,1,0.604891188558786,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,15566,1,0.6047448146140296,Kaybedilmek Uzere,1,2,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17383,0,0.6043431892813294,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16527,0,0.6041172405608627,Kaybedilmek Uzere,1,1,3,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14501,1,0.6040027909711414,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12492,0,0.603952055134002,Yeni / Potansiyel,5,2,2,Yuksek,İkinci alışveriş teşviki
+2011-09-09,14589,1,0.6038780497359844,Diger,2,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15263,1,0.6037571807980224,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,13292,0,0.60330664829174,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13829,1,0.6032514589752571,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13680,0,0.6029002551948404,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,17892,0,0.6027708793562769,Yeni / Potansiyel,4,2,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,12642,0,0.60255531791096,Yeni / Potansiyel,5,1,1,Yuksek,İkinci alışveriş teşviki
+2011-09-09,17807,1,0.6023589900126234,Risk Altinda,1,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,14081,1,0.6020009576321664,Risk Altinda,2,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,12432,0,0.6018453830369648,Diger,3,2,5,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,13206,1,0.6017933555431341,Risk Altinda,1,5,5,Yuksek,Geri kazanım kampanyası
+2011-09-09,15648,1,0.6017259914598777,Diger,3,2,2,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,16058,1,0.6017077529332117,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14319,1,0.6014133286905295,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,18155,0,0.6014067437683892,Diger,3,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,12527,0,0.6009877200687134,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,17495,0,0.6004446298656504,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,13105,1,0.6004303439498515,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,14269,1,0.6003579358587783,Kaybedilmek Uzere,1,1,1,Yuksek,Özel geri kazanım teklifi
+2011-09-09,16836,0,0.6003275958017356,Sadik Musteriler,5,3,2,Yuksek,Sadakat teklifi ve çapraz satış
+2011-09-09,12665,1,0.6003257025124253,Diger,2,2,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,14238,1,0.6002709682314421,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
+2011-09-09,13977,1,0.6001668755611517,Kaybedilmek Uzere,1,1,2,Yuksek,Özel geri kazanım teklifi
+2011-09-09,17658,0,0.6001595233219965,Diger,3,1,1,Yuksek,Davranış analizi ve hedefli iletişim
+2011-09-09,15446,1,0.6000632215704236,Risk Altinda,2,3,2,Yuksek,Geri kazanım kampanyası
