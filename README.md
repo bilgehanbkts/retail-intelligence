@@ -1,3 +1,11 @@
+## 🚀 Canlı Demo
+
+Uygulamayı buradan deneyebilirsiniz:
+
+**[Retail Intelligence — Canlı Uygulama](https://retail-customer-analytics.streamlit.app/)**
+
+Müşteri segmentasyonu, kayıp riski analizi, SHAP açıklamaları ve Gemini AI destekli müşteri içgörülerini keşfedin.
+
 # 🛍️ Retail Intelligence — Yapay Zekâ Destekli Müşteri Analitiği
 
 Perakende sektöründe müşteri segmentasyonu, müşteri kaybı (churn) riski analizi ve yapay zekâ destekli müşteri içgörüleri sunan interaktif bir veri analitiği uygulaması.
