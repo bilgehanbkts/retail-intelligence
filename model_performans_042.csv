@@ -1,0 +1,2 @@
+﻿Esik;Accuracy;ROC_AUC;Precision;Recall;F1;Kampanya_adayi;Kampanya_orani_yuzde;Dogru_aktif;Yanlis_alarm;Kacirilan_kayip;Yakalanan_kayip
+0.42;0.6733086190917517;0.7248483341183212;0.6414797323888233;0.7656176608736496;0.6980728051391863;2541;58.87;1276;911;499;1630
