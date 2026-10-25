@@ -29,7 +29,7 @@ Müşteri davranışlarını analiz ederek işletmelerin müşteri kaybı riskin
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/bilgeh anb kts/retail-intelligence.git
+git clone https://github.com/bilgehanbkts/retail-intelligence.git
 cd retail-intelligence
 ```
 
