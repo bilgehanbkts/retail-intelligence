@@ -84,3 +84,17 @@ Proje; müşteri segmentasyonu, müşteri kaybı riskinin değerlendirilmesi ve 
 ## 👩‍💻 Proje Hakkında
 
 Bu proje; veri analitiği, müşteri segmentasyonu, makine öğrenmesi, açıklanabilir yapay zekâ ve iş odaklı karar destek uygulamalarını bir araya getiren bir portföy çalışmasıdır.
+
+## 📸 Uygulama Ekran Görüntüleri
+
+### Yönetici Dashboard'u
+![Yönetici Dashboard'u](screenshots/dashboard.png)
+
+### SHAP Analizi
+![SHAP Analizi](screenshots/shap-analysis.png)
+
+### Model Performansı
+![Model Performansı](screenshots/model-performance.png)
+
+### Gemini AI Müşteri Analizi
+![Gemini AI Müşteri Analizi](screenshots/gemini-analysis.png)
